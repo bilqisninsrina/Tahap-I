@@ -1,0 +1,7 @@
+README.md pada GitHub yang berisi:
+Nama-nama anggota kelompok
+Deskripsi aplikasi (cerita aplikasi yang diajukan serta kebermanfaatannya)
+Daftar modul yang akan diimplementasikan
+Sumber initial dataset kategori utama produk
+Role atau peran pengguna beserta deskripsinya (karena bisa saja lebih dari satu jenis pengguna yang mengakses aplikasi)
+Tautan deployment PWS dan link design
