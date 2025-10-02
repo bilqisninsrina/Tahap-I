@@ -113,7 +113,6 @@ Deployment & Desain
 
 * **Tautan Deployment PWS**: 
 * **Link Design (Figma/Prototype)**:
-yang bisa edit: https://www.figma.com/team_invite/redeem/JEPlhXAkbrnrXU3evuoh5A
 yang view only: https://www.figma.com/team_invite/redeem/9TxGhFh8rbXzeBD78ePZxm
 
 ---
